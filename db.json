@@ -1,0 +1,74 @@
+{
+    "products":[
+        {   "id":1,
+            "name":"coca  cola",
+            "price":2000,
+            "quantity":1,
+            "image":"https://cdn.pixabay.com/photo/2017/05/19/07/34/teacup-2325722_640.jpg"
+        },
+        {
+            "id":2,
+            "name":"pepsi",
+            "price":3000,
+            "quantity":1,
+            "image":"https://cdn.pixabay.com/photo/2017/03/01/04/59/vintage-2107571_640.jpg"
+
+        },
+        {
+            "id":3,
+            "name":"trà đá hay nước lọc",
+            "price":5000,
+            "quantity":1,
+            "image":"https://cdn.pixabay.com/photo/2022/10/16/19/39/teacup-7526022_640.jpg"
+
+        },
+        {
+            "id":4,
+            "name":"trà đá",
+            "price":6000,
+            "quantity":1,
+            "image":"https://cdn.pixabay.com/photo/2023/07/02/18/49/cup-8102791_640.jpg"
+
+        },
+        {
+            "id":5,
+            "name":"sai",
+            "price":2000,
+            "quantity":1,
+            "image":"https://cdn.pixabay.com/photo/2016/03/27/21/37/tea-1284366_640.jpg"
+
+        },
+        {
+            "id":6,
+            "name":"là nước lọc",
+            "price":4000,
+            "quantity":1,
+            "image":"https://cdn.pixabay.com/photo/2016/10/20/19/52/tee-1756497_640.jpg"
+
+        },
+        {
+            "id":7,
+            "name":"trá đào",
+            "price":4000,
+            "quantity":1,
+            "image":"https://cdn.pixabay.com/photo/2015/11/06/13/05/cat-1027486_640.jpg"
+
+        },
+        {
+            "id":8,
+            "name":"trà chua",
+            "price":1000,
+            "quantity":1,
+            "image":"https://cdn.pixabay.com/photo/2016/10/20/19/54/tee-1756505_640.jpg"
+
+        },
+        {
+            "id":9,
+            "name":"trà chát",
+            "price":2000,
+            "quantity":1,
+            "image":"https://cdn.pixabay.com/photo/2014/09/07/22/42/tea-438480_640.jpg"
+
+        }
+    ]
+}
